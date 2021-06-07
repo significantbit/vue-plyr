@@ -1,3 +1,6 @@
+### ⚠️  What's up with this fork?
+We needed the latest version of Plyr, because it involved a fix for Vimeo videos not playing in Chrome. That's pretty much it.
+
 # vue-plyr
 > v7.0.0 - [Changelog](https://github.com/redxtech/vue-plyr/blob/master/changelog.md)
 
